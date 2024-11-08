@@ -1,8 +1,8 @@
 
-### 👋 Olá, sou Rafael Rubiá!
+### 👋 Olá, sou Henrique Neves!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Rafael%20Rubiá&fontAlignY=40&fontAlign=51&descAlign=72&descAlignY=94&section=header&strokeWidth=1" alt="Cabeçalho Animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Henrique%20Neves&fontAlignY=40&fontAlign=51&descAlign=72&descAlignY=94&section=header&strokeWidth=1" alt="Cabeçalho Animado" />
 </div>
 
 Sou um desenvolvedor full-stack em treinamento, com grande paixão pela aprendizagem e desenvolvimento de sistemas.
@@ -29,31 +29,31 @@ Sou um desenvolvedor full-stack em treinamento, com grande paixão pela aprendiz
 <div align="center">
   <h2>📊 Análises do GitHub</h2>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafarubia7&theme=react-dark&hide_border=true" width="95%" alt="Gráfico de Contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgnevess&theme=react-dark&hide_border=true" width="95%" alt="Gráfico de Contribuições" />
   
   <p align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafarubia7&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafarubia7&theme=tokyonight&hide_border=true" alt="Estatísticas de Sequência" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hgnevess&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=hgnevess&theme=tokyonight&hide_border=true" alt="Estatísticas de Sequência" />
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarubia7&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgnevess&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Linguagens Mais Utilizadas" />
 
   <details>
     <summary>🏆 Troféus do GitHub</summary>
-    <img src="https://github-profile-trophy.vercel.app/?username=AlessandroMendesS&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Troféus" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hgnevess&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Troféus" />
   </details>
 </div>
 
 <div align="center">
   <h2>🤝 Vamos Conversar</h2>
   
-  <a href="https://www.instagram.com/rafa_rubia7/" target="_blank">
+  <a href="https://www.instagram.com/hgnevess/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/5516988184175" target="_blank">
+  <a href="https://wa.me/5516988016776" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:rafaelrubia62@gmail.com">
+  <a href="mailto:henriquegabrielneves979@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
