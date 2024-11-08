@@ -1,9 +1,9 @@
-### 👋 Olá! Sou [Seu Nome]
+### 👋 Olá! Sou Henrique Neves
 Sou desenvolvedor full-stack com foco em Java, Spring Boot, Python e outras tecnologias modernas. Tenho experiência em desenvolver APIs REST, automação de testes e trabalhar com ferramentas como Postman e Docker.
 
 - 🌱 **Atualmente aprendendo:** novas tendências em tecnologias de front-end e DevOps
 - 💬 **Pergunte-me sobre:** Java, Spring Boot, Python, automação de testes, APIs REST e muito mais!
-- 📫 **Como me encontrar:** [Seu E-mail] | [LinkedIn](link-para-seu-linkedin)
+- 📫 **Como me encontrar:** henriquegabrielneves979@gmail.com | 
 
 ---
 ### 📊 **Meus Status e Linguagens**
