@@ -1,13 +1,11 @@
 ### 👋 Olá! Sou [Seu Nome]
-
-Sou desenvolvedor full-stack com foco em Java, Spring Boot, Python, e outras tecnologias modernas. Tenho experiência em desenvolver APIs REST, automação de testes, e trabalhar com ferramentas como Postman e Docker.
+Sou desenvolvedor full-stack com foco em Java, Spring Boot, Python e outras tecnologias modernas. Tenho experiência em desenvolver APIs REST, automação de testes e trabalhar com ferramentas como Postman e Docker.
 
 - 🌱 **Atualmente aprendendo:** novas tendências em tecnologias de front-end e DevOps
-- 💬 **Pergunte-me sobre:** Java, Spring Boot, Python, automação de testes, APIs REST, e muito mais!
+- 💬 **Pergunte-me sobre:** Java, Spring Boot, Python, automação de testes, APIs REST e muito mais!
 - 📫 **Como me encontrar:** [Seu E-mail] | [LinkedIn](link-para-seu-linkedin)
 
 ---
-
 ### 📊 **Meus Status e Linguagens**
 
 <div align="center">
@@ -16,7 +14,6 @@ Sou desenvolvedor full-stack com foco em Java, Spring Boot, Python, e outras tec
 </div>
 
 ---
-
 ### 🛠️ **Minhas Habilidades**
 
 <div align="left">
@@ -42,7 +39,6 @@ Sou desenvolvedor full-stack com foco em Java, Spring Boot, Python, e outras tec
 </div>
 
 ---
-
 ### 🚀 **Projetos em Destaque**
 
 - **[API Rest com Spring Boot](link-do-repositório)**: Desenvolvi uma API RESTful para gerenciamento de tarefas, utilizando Spring Boot, Hibernate e PostgreSQL. [Ver Repositório](link-do-repositório)
@@ -51,7 +47,6 @@ Sou desenvolvedor full-stack com foco em Java, Spring Boot, Python, e outras tec
 - **[Projeto Dockerized](link-do-repositório)**: Criação de uma aplicação Java com Docker para facilitar o deploy em qualquer ambiente. [Ver Repositório](link-do-repositório)
 
 ---
-
 ### 📈 **Certificações e Conquistas**
 
 - 🏅 **Certificação em Java** – [Link para Certificado](link-do-certificado)
@@ -59,7 +54,6 @@ Sou desenvolvedor full-stack com foco em Java, Spring Boot, Python, e outras tec
 - 🏅 **Certificação em Python para Desenvolvimento Web** – [Link para Certificado](link-do-certificado)
 
 ---
-
 ### 📫 **Como me contactar**
 
 - 📧 E-mail: [seu-email@dominio.com](mailto:seu-email@dominio.com)
@@ -67,5 +61,4 @@ Sou desenvolvedor full-stack com foco em Java, Spring Boot, Python, e outras tec
 - 🌍 Website: [Seu Website ou Portfólio](link-para-seu-site)
 
 ---
-
-**"Código é poesia."**  
+**"Código é poesia."**
