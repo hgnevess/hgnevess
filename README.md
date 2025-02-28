@@ -1,89 +1,94 @@
-
-<h1 align="center">Henrique Neves</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4361EE&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Passionate+Learner;Java+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/hgnevess"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/hgnevess/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:henriquegabrielneves979@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://wa.me/5516988016776"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hgnevess&style=flat-square&color=4361EE" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Henrique%20Neves&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="header" />
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=4361EE&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
+</div>
 
-## 💫 About Me
+<div align="center">
+  <a href="https://github.com/hgnevess" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/></a>
+  <a href="https://www.instagram.com/hgnevess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="25"/></a>
+  <a href="mailto:henriquegabrielneves979@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25"/></a>
+  <a href="https://wa.me/5516988016776" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25"/></a>
+</div>
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiNzRkZDRiMzJlMzRiMDRiMzRiMzRiMzRiMzRiMzRiMzRiMzRiMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hgnevess&style=flat-square&color=4361EE&label=Profile+Views" alt="Profile Views" />
+</div>
 
-I'm a passionate full-stack developer in training, dedicated to creating elegant solutions and continuously expanding my knowledge in software development.
+<br />
 
-- 🌱 I'm currently learning advanced JavaScript and Java frameworks
-- 👨‍💻 Working on building my portfolio of web applications
-- 🔍 Exploring database optimization and cloud technologies
-- 📚 Constantly improving my skills through practice and study
+<p align="center">
+  <b>「 Full-Stack Developer with a passion for elegant solutions 」</b>
+</p>
+
+<br />
+
+## ⚡ About
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
+
+I'm a dedicated developer focused on creating impactful digital experiences through clean code and thoughtful design.
+
+- 🔭 Currently building my portfolio of web applications
+- 🌱 Expanding my knowledge in JavaScript frameworks and Java
+- 💡 Passionate about solving complex problems with elegant solutions
+- 📚 Committed to continuous learning and growth
 
 <br clear="right"/>
 
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 <div align="center">
-
-### Languages & Frameworks
-  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Technologies" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=java,mysql" alt="Backend Technologies" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Tools</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" alt="Development Tools" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## 📊 GitHub Stats
+## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hgnevess&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hgnevess&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hgnevess&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4361EE&text_color=ffffff&icon_color=4361EE" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hgnevess&hide_border=true&background=0d1117&ring=4361EE&fire=4361EE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4361EE&sideLabels=4361EE&dates=888888" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgnevess&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact" alt="Top Languages" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgnevess&layout=compact&hide_border=true&bg_color=0d1117&title_color=4361EE&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <details>
-  <summary>🏆 GitHub Trophies</summary>
+  <summary align="center">🏆 GitHub Achievements</summary>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hgnevess&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hgnevess&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
   </div>
 </details>
 
----
+<br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://raw.githubusercontent.com/hgnevess/hgnevess/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=120&section=footer" alt="Footer" />
 </div>
